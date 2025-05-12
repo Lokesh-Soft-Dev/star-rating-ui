@@ -20,3 +20,6 @@ A simple and responsive 5-star rating component built using HTML and CSS — per
 - **Flexbox** – For responsive and centered layout
 
 ---
+## 🧑‍💻 Author
+
+**LOKESH K**
