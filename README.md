@@ -2,7 +2,7 @@
 
 A simple and responsive 5-star rating component built using HTML and CSS — perfect for feedback forms and review sections.
 
-## Live Demo: 
+## Live Demo: https://lokesh-soft-dev.github.io/star-rating-ui/
 ---
 ## ✨ Features
 
